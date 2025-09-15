@@ -1,7 +1,7 @@
 # Image-Recognition
 This project focuses on developing an image recognition system to distinguish between ripe and unripe mangoes, supporting the automation of mango harvesting and sorting. The goal is to increase efficiency in agricultural practices by reducing manual labor and ensuring fruit quality during the harvesting process.
 
-Key Features
+<b>Key Features</b>
 
 Image Classification: Identifies ripe vs. unripe mangoes based on color, texture, and shape features.
 
