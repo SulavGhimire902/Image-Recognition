@@ -12,35 +12,35 @@ This project focuses on developing an image recognition system to distinguish be
 
 <b><h2>Tech Stack</h2></b>
 <ol>
-  Programming Language: Python
-  Libraries/Frameworks: TensorFlow / PyTorch, OpenCV, NumPy, Matplotlib
-  Hardware Integration (future scope): Arduino-based robotic arm with motor drivers and LiDAR sensor for sorting and harvesting
+  <li>Programming Language: Python</li>
+  <li>Libraries/Frameworks: TensorFlow / PyTorch, OpenCV, NumPy, Matplotlib</li>
+  <li>Hardware Integration (future scope): Arduino-based robotic arm with motor drivers and LiDAR sensor for sorting and harvesting</li>
 </ol>
 
 <h2>Project Workflow</h2>
 <ol>
-  Data Collection & Preprocessing:
+  <li>Data Collection & Preprocessing:</li>
   <ul>
-    Captured mango images under varying lighting conditions.
-    Labeled the dataset into “Ripe” and “Unripe.”
-    Applied data augmentation for robustness.
+    <li>Captured mango images under varying lighting conditions.</li>
+    <li>Labeled the dataset into “Ripe” and “Unripe.”</li>
+    <li>Applied data augmentation for robustness.</li>
   </ul>
-  Model Training & Evaluation:
+  <li>Model Training & Evaluation:</li>
   <ul>
-    Implemented Convolutional Neural Networks (CNN).
-    Evaluated performance using accuracy, precision, recall, and a confusion matrix.
+    <li>Implemented Convolutional Neural Networks (CNN).</li>
+    <li>Evaluated performance using accuracy, precision, recall, and a confusion matrix.</li>
   </ul>
-    Deployment & Application:
+  <li>Deployment & Application:</li>
   <ul>
-    Integrated recognition system with a prototype robotic arm.
-    Enabled automatic sorting and harvesting with minimal damage.  
+    <li>Integrated recognition system with a prototype robotic arm.</li>
+    <li>Enabled automatic sorting and harvesting with minimal damage.</li>  
   </ul>
 </ol>
 
 <b><h2>Future Improvements</h2></b>
 <ul>
-  Expand the dataset to include mangoes from different regions and growth stages.
-  Implement edge computing for faster, on-device recognition.
-  Enhance real-time detection accuracy in field environments with variable lighting and background noise.
-  Improve robotic arm precision for commercial-scale deployment.
+  <li>Expand the dataset to include mangoes from different regions and growth stages.</li>
+  <li>Implement edge computing for faster, on-device recognition.</li>
+  <li>Enhance real-time detection accuracy in field environments with variable lighting and background noise.</li>
+  <li>Improve robotic arm precision for commercial-scale deployment.</li>
 </ul>
