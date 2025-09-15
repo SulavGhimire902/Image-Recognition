@@ -3,19 +3,19 @@ This project focuses on developing an image recognition system to distinguish be
 
 <b><h2>Key Features</h2></b>
 <ul>
-  Image Classification: Identifies ripe vs. unripe mangoes based on color, texture, and shape features.
-  Computer Vision Integration: Uses machine learning models (e.g., CNN) trained on a dataset of mango images.
-  Automation-Oriented: Designed to work in conjunction with a robotic harvesting arm for precise and damage-free fruit picking.
-  Dataset Preparation: Custom dataset collected and preprocessed with augmentation (rotation, scaling, brightness adjustments) to improve model generalization.
-  Real-Time Detection: Can be integrated with a camera system for real-time field applications.
+  <li>Image Classification: Identifies ripe vs. unripe mangoes based on color, texture, and shape features.</li>
+  <li>Computer Vision Integration: Uses machine learning models (e.g., CNN) trained on a dataset of mango images.</li>
+  <li>Automation-Oriented: Designed to work in conjunction with a robotic harvesting arm for precise and damage-free fruit picking.</li>
+  <li>Dataset Preparation: Custom dataset collected and preprocessed with augmentation (rotation, scaling, brightness adjustments) to improve model generalization.   </li>
+  <li>Real-Time Detection: Can be integrated with a camera system for real-time field applications.</li>
 </ul>
 
 <b><h2>Tech Stack</h2></b>
-<ol>
+<ul>
   <li>Programming Language: Python</li>
   <li>Libraries/Frameworks: TensorFlow / PyTorch, OpenCV, NumPy, Matplotlib</li>
   <li>Hardware Integration (future scope): Arduino-based robotic arm with motor drivers and LiDAR sensor for sorting and harvesting</li>
-</ol>
+</ul>
 
 <h2>Project Workflow</h2>
 <ol>
